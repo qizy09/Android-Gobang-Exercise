@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chessboard_width">300dp</dimen>
+    <string name="app_name">Gobang AI Practice</string>
+    <string name="labeText">Test output information.\n\n\n</string>
+</resources>
