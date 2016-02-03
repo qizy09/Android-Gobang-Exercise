@@ -1,2 +1,2 @@
 # Android Gobang AI Exercise
-This is a repository for a previous course project.
+This is a backup repository for a previous course project.
